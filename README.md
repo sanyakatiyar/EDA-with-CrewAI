@@ -19,9 +19,9 @@ The result is a markdown-based EDA report with charts, code, insights, and summa
 
 ## 💡 Features
 
-- 🧠 **Multi-Agent AI Orchestration** via [CrewAI](https://github.com/joaomdmoura/crewai)
-- 🤖 GPT-4-powered agents (via OpenAI) for reasoning and execution
-- 🧾 Natural language EDA questions & summaries
-- 📊 Code generation for data analysis and matplotlib visualizations
-- ⚙️ Prompt engineering for agent role alignment
-- 📁 Organized output folder with plots and markdown files
+- **Multi-Agent AI Orchestration** via [CrewAI](https://github.com/joaomdmoura/crewai)
+- GPT-4-powered agents (via OpenAI) for reasoning and execution
+- Natural language EDA questions & summaries
+- Code generation for data analysis and matplotlib visualizations
+- Prompt engineering for agent role alignment
+- Organized output folder with plots and markdown files
